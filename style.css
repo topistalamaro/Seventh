@@ -1,0 +1,25 @@
+
+tr:hover {
+    background-color: orange;
+    color: white;
+
+}
+td {
+    width: 50px;
+    font-size: 30px;
+    border: 3px solid orange;
+    text-align: center;
+    padding: 5px 10px;
+
+}
+input{
+    font-size: 30px;
+    width: 200px;
+    height: 100px;
+    color: green;
+    padding: 0px 10px;
+}
+button{
+    width: 70px;
+    height: 70px;
+}
